@@ -1,0 +1,1 @@
+Student Attendence system. All student first added by teacher and then present collect by system
